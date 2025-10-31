@@ -1,0 +1,26 @@
+{
+  "name": "vitrina",
+  "version": "1.0.0",
+  "description": "Aplicativo desenvolvido pela EvoX que conecta comércios locais e clientes em uma plataforma prática e moderna",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhioliveira/vitrina.git"
+  },
+  "keywords": [
+    "vitrina"
+  ],
+  "author": "EvoX Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devhioliveira/vitrina/issues"
+  },
+  "homepage": "https://github.com/devhioliveira/vitrina#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
